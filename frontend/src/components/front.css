@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: #f0f0f0; /* Light gray background */
+  }
+  
+  .welcome-header {
+    margin-bottom: 30px;
+    background-color: #54a0ff; /* Blue background */
+    color: #fff; /* White text */
+    padding: 15px;
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  .welcome-content {
+    margin-bottom: 20px;
+  }
+  
+  .welcome-button {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
